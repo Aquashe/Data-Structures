@@ -1,0 +1,11 @@
+Data Structures : Its a way to organize and store data efficiently .Efficiency is based in terms of performance and memory.
+
+Time Complexity : Measure of how the running time of an algorithm increases with the size of input data.
+
+O(1) - Constant time
+O(logn) - Logarithmic time 
+O(n) - Linear Time
+O(nlogn) - Linearithmic time
+O(n2) - Quadratic time 
+O(2n) - Exponent time 
+O(n!) - Factorial time 
