@@ -16,7 +16,7 @@ public class LinearAndBinarySearch {
             System.out.println("Element found through Binary search : " + result2);
         } else
             System.out.println("Element not found");
-
+        sc.close();
     }
 
     public static int binarySearch(int[] arr, int target, int left, int right) {
